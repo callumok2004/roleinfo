@@ -1,5 +1,3 @@
-print("LOAD CLIENT ROLE DATA")
-
 if not ROLEINFO then ROLEINFO = {} end
 
 ROLEINFO["Innocent"] = [[You are an Innocent! But there are traitors around...
