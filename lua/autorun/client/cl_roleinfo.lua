@@ -1,5 +1,5 @@
 net.Receive("CustomRole_Helper_OpenWindow", function()
-  local roleName = net.ReadString(32)
+  local roleName = net.ReadString()
 
   local window = vgui.Create("DFrame")
   window:SetSize(400, 100)
