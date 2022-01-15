@@ -1,5 +1,3 @@
-print("LOAD SERVER HELPER")
-
 util.AddNetworkString("CustomRole_Helper_OpenWindow")
 
 hook.Add("PlayerSay", "CustomRolesHelper_Say", function(ply, chattext)
