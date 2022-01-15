@@ -1,5 +1,3 @@
-print("LOAD CLIENT HELPER")
-
 net.Receive("CustomRole_Helper_OpenWindow", function()
   local roleName = net.ReadString(32)
 
