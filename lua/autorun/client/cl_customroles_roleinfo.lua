@@ -87,3 +87,9 @@ ROLEINFO["Assassin"] = [[You are an Assassin!
 You will deal more to your target and less damage to all other players. But take care as killing the wrong player will result in you losing your damage bonus and maybe even suffering from a penalty!
 
 Press C to receive your special equipment!]]
+
+ROLEINFO["Hypnotist"] = [[You are a Hypnotist!
+
+You can use your brain washing device on a corpse to revive them as a traitor.
+
+Press C to receive your special equipment!]]
