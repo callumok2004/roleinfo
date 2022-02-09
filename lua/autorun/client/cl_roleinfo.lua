@@ -1,4 +1,6 @@
 net.Receive("CustomRole_Helper_OpenWindow", function()
+  if LocalPlayer():IsSpec() then return end
+
   local roleName = net.ReadString()
 
   local window = vgui.Create("DFrame")
